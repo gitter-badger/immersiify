@@ -1,1 +1,3 @@
 # immersiify
+
+[![Join the chat at https://gitter.im/nidleon/immersiify](https://badges.gitter.im/nidleon/immersiify.svg)](https://gitter.im/nidleon/immersiify?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
